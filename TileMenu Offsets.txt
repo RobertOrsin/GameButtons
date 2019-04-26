@@ -1,0 +1,58 @@
+Layout Positions
+================
+Root: Upperleft corner of tile: 46;0
+Root: Center (of visible Tile): 94;96
+
+TopButton: 83;10
+TopTextBox: 69;38
+
+UpperRightButton: 135;48
+
+LowerRightMinus: 131;125
+LowerRightPlus: 161;125
+LowerRightButton: 142;138
+LowerRightTextBox: 129;165
+
+BottomMinus: 72;145
+BottomPlus: 102;145
+BottomButton: 83;158
+BottomTextBox: 70;185
+
+LowerLeftMinus: 12;125
+LowerLeftPlus: 42;125
+LowerLeftButton: 23;138
+LowerLeftTextBox: 8;165
+
+UpperLeftMinus: 2;32
+UpperLeftPlus: 32;32
+UpperLeftButton: 13;45
+UpperLeftTextBox: 0;72
+
+Translated offsets
+==================
+Root: Center (of visible Tile): 94;96
+
+TopButton: -11;-86
+TopTextBox: -25;-58
+
+UpperRightButton: 41;-48
+
+LowerRightMinus: 37;29
+LowerRightPlus: 67;29
+LowerRightButton: 48;42
+LowerRightTextBox: 35;69
+
+BottomMinus: -22;49
+BottomPlus: 8;49
+BottomButton: -11;62
+BottomTextBox: -24;89
+
+LowerLeftMinus: -82;29
+LowerLeftPlus: -52;29
+LowerLeftButton: -71;42
+LowerLeftTextBox: -86;69
+
+UpperLeftMinus: -92;-64
+UpperLeftPlus: -62;-64
+UpperLeftButton: -81;-51
+UpperLeftTextBox: -94;-24
