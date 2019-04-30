@@ -8,4 +8,4 @@ Button always has three colors (normal, light and shadow). Icons on the button c
 
 White is transparent colour.
 
-To do: Buttonvariants for hoovering and pressed.
+To do: Highlight for Button_Minus not strong enough --> brighter colour
