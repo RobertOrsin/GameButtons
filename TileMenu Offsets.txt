@@ -35,7 +35,10 @@ Root: Center (of visible Tile): 94;96
 TopButton: -11;-86
 TopTextBox: -25;-58
 
+UpperRightMinus: 37;-64
+UpperRightPlus: 67;-64
 UpperRightButton: 41;-48
+UpperRightTextBox: 35;-24
 
 LowerRightMinus: 37;29
 LowerRightPlus: 67;29
