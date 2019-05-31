@@ -37,7 +37,7 @@ TopTextBox: -25;-58
 
 UpperRightMinus: 37;-64
 UpperRightPlus: 67;-64
-UpperRightButton: 41;-48
+UpperRightButton: 48;-51
 UpperRightTextBox: 35;-24
 
 LowerRightMinus: 37;29
